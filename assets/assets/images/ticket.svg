@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="567px" height="402px" viewBox="0 0 567 402" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group</title>
+    <g id="Card-making-web-app" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-Copy-6" transform="translate(-401.000000, -116.000000)">
+            <g id="Group" transform="translate(401.000000, 116.000000)">
+                <rect id="Rectangle" fill="#FFFFFF" x="0" y="0" width="567" height="401"></rect>
+                <path d="M538.776346,300.11744 C538.776346,291.166151 546.031122,283.909732 554.979713,283.909732 L554.979713,20.4657545 C554.979713,16.0204233 551.342896,12.3821093 546.897897,12.3821093 L303.601564,12.3821093 C299.156565,12.3821093 295.519748,16.0204233 295.519748,20.4657545 L295.519748,283.919836 C304.293233,284.121927 311.344617,291.293468 311.344617,300.11744 C311.344617,308.941413 304.293233,316.112953 295.519748,316.315045 L295.519748,334.660204 L425.249731,390.617891 L554.979713,334.660204 L554.979713,316.324476 C546.031122,316.324476 538.776346,309.06873 538.776346,300.11744 Z" id="Stroke-1" stroke="#00316E" stroke-width="5"></path>
+                <polygon id="Fill-3" fill="#ECECEB" points="305.14647 208.191911 545.35353 208.191911 545.35353 96.0232497 305.14647 96.0232497"></polygon>
+                <polygon id="Fill-5" fill="#ECECEB" points="305.14647 276.334346 350.091469 276.334346 350.091469 230.966908 305.14647 230.966908"></polygon>
+                <text id="ZOOM-TICKET" font-family=".AppleSystemUIFont" font-size="35" font-weight="normal" letter-spacing="0.035" fill="#00316E">
+                    <tspan x="312.266729" y="55">ZOOM TICKET</tspan>
+                </text>
+                <g id="Group-19" transform="translate(295.000000, 84.000000)" stroke="#00316E">
+                    <line x1="0" y1="0.337573169" x2="259" y2="0.337573169" id="Stroke-13"></line>
+                    <line x1="0" y1="136.304147" x2="259" y2="136.304147" id="Stroke-15"></line>
+                    <line x1="65.3134211" y1="196.670736" x2="65.3134211" y2="136.615794" id="Stroke-17"></line>
+                    <line x1="16.3446171" y1="216.11744" x2="243.776346" y2="216.11744" id="Path" stroke-width="9" stroke-dasharray="9,9"></line>
+                </g>
+                <text id="Fold-here" transform="translate(227.000000, 88.000000) rotate(270.000000) translate(-227.000000, -88.000000) " font-family="Manrope-Medium, Manrope" font-size="21" font-weight="400" fill="#00316E">
+                    <tspan x="159" y="96">F</tspan>
+                    <tspan x="169.71" y="96">old h</tspan>
+                    <tspan x="217.0545" y="96">er</tspan>
+                    <tspan x="237.2985" y="96">e</tspan>
+                </text>
+                <line x1="283.10392" y1="402" x2="283.10392" y2="1" id="Stroke-20" stroke="#00316E" stroke-width="2" stroke-dasharray="9.359,9.359"></line>
+                <path d="M227.20034,165.68898 C227.20034,165.68898 221.833299,211.251099 266.657441,215.032224" id="Stroke-22" stroke="#00316E" stroke-dasharray="5,5"></path>
+                <path d="M272.766037,215.281672 C269.839788,216.201187 266.184339,217.836778 263.878585,219.647514 L265.860251,214.935423 L264.362017,210.049533 C266.474669,212.081896 269.947142,214.075188 272.766037,215.281672" id="Fill-24" fill="#00316E"></path>
+                <polyline id="Stroke-26" stroke="#00316E" stroke-width="9" stroke-linecap="square" stroke-linejoin="bevel" points="322.887135 331.919958 425.94323 376.2601 529 331.919958"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>
